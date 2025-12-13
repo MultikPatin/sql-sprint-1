@@ -3,9 +3,7 @@ name = "sql-sprint-1"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
-dependencies = [
-    "ruff>=0.14.8",
-]
+dependencies = []
 
 [dependency-groups]
 dev = [
